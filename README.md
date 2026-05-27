@@ -135,3 +135,4 @@ Additional optimization visualization added.
 
 If you like this project, feel free to give it a ⭐ on GitHub.
 >>>>>>> 91c0aec4441a2085be34f50050337c881703efd7
+Interactive AI optimization visualization project.
