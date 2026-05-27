@@ -126,8 +126,7 @@ This project was created for learning and visualization purposes in Artificial I
 
 GitHub:
 https://github.com/sonimochleviansyah
-Project developed for Artificial Intelligence course.
-Additional optimization visualization added.
+
 
 ---
 
